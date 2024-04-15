@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/phdelalibera/phdelalibera/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/phdelalibera/phdelalibera/main/snake.svg" alt="Snake animation" />
 
 ###
