@@ -19,10 +19,6 @@
 
 ###
 
-<img align="right" height="120" src="https://i.gifer.com/3769.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
