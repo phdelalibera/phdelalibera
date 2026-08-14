@@ -4,14 +4,7 @@
 
 ###
 
-<p align="left">🌱 Formado em Tecnologia em Banco de Dados.<br>💻 Estou trabalhando como Analista de Suporte Pleno.<br>📚 Atualmente estou estudando Python para migrar para a área de Analista de Dados.<br>🎲 Fato curioso: Amo animes, jogos e tokusatsu.</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=phdelalibera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phdelalibera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">🌱 Formado em Tecnologia em Banco de Dados.<br>💻 Estou trabalhando como Analista de Suporte Pleno.<br>📚 Atualmente estou estudando Python e Power BI para migrar para a área de Analista de Dados.</p>
 
 ###
 
